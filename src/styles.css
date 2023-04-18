@@ -1,0 +1,76 @@
+h1 {
+    top: 20px;
+    font-size: 25px;
+}
+
+h6 {
+    margin-top: 0px;
+    font-weight: 400;
+    color: black;
+}
+
+h3 {
+    padding-top: 0px;
+    font-size: 1rem;
+    color: black;
+}
+
+body {
+    border: darkgrey;
+    margin: 50px 0px 0px 50px;
+    font-family: Verdana, sans-serif;
+}
+
+#searchButton,
+#currentButton {
+    margin: 20px 100px 0px 0px;
+}
+
+#searchButton {
+    display: block;
+    margin: 0 auto;
+    padding: 4px 25px 4px 25px;
+    display: block;
+}
+
+#currentButton {
+    display: block;
+    margin: 0 auto;
+    padding: 4px 24px 4px 24px;
+    background-color: forestgreen;
+    border-color: forestgreen;
+    display: block;
+}
+
+.unit {
+    margin-left: -10px;
+    font-size: 20px;
+}
+
+.information {
+    margin-left: 40px;
+}
+
+.today {
+    margin-left: 30px;
+    font-size: 70px;
+}
+
+.card {
+    max-width: 600px;
+}
+
+.searchbar {
+    display: block;
+    margin: 0 auto;
+    font-size: 15px;
+    padding: 6px 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 1px 5px 15px lightgray;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    padding: auto 5px;
+}
