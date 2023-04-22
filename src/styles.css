@@ -21,26 +21,23 @@ body {
     font-family: Verdana, sans-serif;
 }
 
-#searchButton,
-#currentButton {
-    margin: 20px 100px 0px 0px;
-}
 
 #searchButton {
+    margin: 20px 100px 0px 0px;
     display: block;
     margin: 0 auto;
     padding: 4px 25px 4px 25px;
     display: block;
 }
 
-#currentButton {
+/*#currentButton {
     display: block;
     margin: 0 auto;
     padding: 4px 24px 4px 24px;
     background-color: forestgreen;
     border-color: forestgreen;
     display: block;
-}
+}*/
 
 .unit {
     margin-left: -10px;
@@ -76,5 +73,5 @@ body {
 }
 
 .footer{
-    font-size: 20px;
+    font-size: 15px;
 }
