@@ -48,6 +48,9 @@ function showCity(event) {
 let searchForm = document.querySelector("#search-form");
 searchForm.addEventListener("submit", showCity);
 
+let searchButton = document.querySelector("#searchButton");
+searchButton.addEventListener("click", showCity);
+
 //Temperature for current position
 
 function showPosition(position) {
